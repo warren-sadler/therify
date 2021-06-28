@@ -1,6 +1,14 @@
 {
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com/warren-sadler/therify.git",
+    "directory": "packages/types"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
   "name": "@therify/types",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
