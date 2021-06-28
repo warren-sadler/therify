@@ -5,7 +5,7 @@
     "directory": "packages/types"
   },
   "name": "@warren-sadler/therify-types",
-  "version": "0.6.4",
+  "version": "0.6.5",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
