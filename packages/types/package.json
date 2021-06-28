@@ -4,7 +4,7 @@
     "url": "git@github.com:warren-sadler/therify.git",
     "directory": "packages/types"
   },
-  "name": "@therify/types",
+  "name": "@warren-sadler/therify-types",
   "version": "0.6.3",
   "description": "",
   "main": "dist/index.js",
@@ -22,5 +22,5 @@
     "ts-jest": "^27.0.3",
     "typescript": "^4.3.4"
   },
-  "gitHead": "5e741aaa68a7349ffcbd3867dbd3bed41f6f0303"
+  "gitHead": "8ae29f3e756f5f8498a328ff29ceb3ba6ffc97eb"
 }
