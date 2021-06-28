@@ -1,11 +1,8 @@
 {
   "repository": {
     "type": "git",
-    "url": "https://github.com/warren-sadler/therify.git",
+    "url": "git@github.com:warren-sadler/therify.git",
     "directory": "packages/types"
-  },
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@therify"
   },
   "name": "@therify/types",
   "version": "0.6.2",
@@ -25,5 +22,5 @@
     "ts-jest": "^27.0.3",
     "typescript": "^4.3.4"
   },
-  "gitHead": "2ed3d2678a28a47c05b2bd6b785e922d92af855a"
+  "gitHead": "5e741aaa68a7349ffcbd3867dbd3bed41f6f0303"
 }
