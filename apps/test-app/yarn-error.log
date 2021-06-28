@@ -14,7 +14,7 @@ Platform:
   darwin x64
 
 Trace: 
-  Error: https://registry.yarnpkg.com/@therify%2ftypes: Not found
+  Error: https://registry.yarnpkg.com/@warren-sadler%2ftherify-types: Not found
       at Request.params.callback [as _callback] (/usr/local/Cellar/yarn/1.22.5/libexec/lib/cli.js:66988:18)
       at Request.self.callback (/usr/local/Cellar/yarn/1.22.5/libexec/lib/cli.js:140749:22)
       at Request.emit (events.js:315:20)
@@ -30,7 +30,6 @@ npm manifest:
   {
     "name": "test-app",
     "version": "1.0.0",
-    "private": true,
     "description": "",
     "main": "index.js",
     "scripts": {
@@ -40,7 +39,7 @@ npm manifest:
     "author": "",
     "license": "ISC",
     "dependencies": {
-      "@therify/types": "0.1.0"
+      "@warren-sadler/therify-types": "latest"
     }
   }
 
